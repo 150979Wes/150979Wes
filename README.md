@@ -8,5 +8,6 @@
 150979Wes/150979Wes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-#![Deus no comando](image.jpg 01)
-##*[de nossas vidas](jpg*.*)
+#![Deus no comando](image.jpg)
+##*[de nossas vidas]
+### !(image.jpg)
